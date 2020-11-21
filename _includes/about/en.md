@@ -17,3 +17,7 @@ Hobbies:
 - Table tennis and basketball
 - Reading 
 
+The best ways to get in touch with me are:
+
+- emailing me at  wangxiaolong@smail.swufe.edu.cn 
+

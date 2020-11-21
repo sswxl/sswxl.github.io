@@ -13,6 +13,7 @@ future: true
 
 # SNS settings
 RSS: false
+bilibili_username:  169376906
 weibo_username:     7489178469
 zhihu_username:     xiao-qing-tian-ming
 github_username:    wxllq
