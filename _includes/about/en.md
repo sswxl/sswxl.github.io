@@ -2,7 +2,7 @@
 
 Hi, I am Xiaolong Wang, a second-year graduate student at Southwestern University of Finance and Economics(swufe), majoring in Computer Science.  I got my Bachelor's degree in Internet of Things Engineering(IOT) at Luoyang Institute of Science and Technology (LIT) in June 2019 .
 
-Research Interest:
+Research Interests:
 
 - Fine-grained entity type classification
 
